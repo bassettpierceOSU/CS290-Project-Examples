@@ -1,0 +1,55 @@
+// TODO
+= 2/13/20
+- Biweekly audit deliverable DONE
+- email DLP team about Syslog key/ouput format DONE
+- 1/2 DLP High Queue DONE
+- 1/2 RO High Queue DONE
+- Match DLP Syslog to DLP Console DONE
+- Duke Notes DONE
+- Update JIRA with Exabeam SOW Activities DONE
+- Limit Exabeam Watchlists to ITP
+- Reschedule Friday Exabeam Call DONE
+- Splunk Index Descriptions? 
+=2/14/20
+- AD Team Email
+- 1/2 DLP High Queue DONE
+- 1/2 RO High Queue DONE
+- Limit Exabeam Watchlists to ITP
+- Splunk Index Descriptions 
+- Communication Compliance Keyword List in DEV
+- Exabeam Server Upgrade Next Steps
+=2/17/20
+- 1/2 DLP High Queue DONE
+- 1/2 RO High Queue DONE
+- PECO Investigator ITP Incident Access DONE
+- Dontae Bruson reach out about AD questions DONE
+- AD Team email
+- Limit Exabeam Watchlists to ITP
+- Splunk Index Descriptions DONE
+- Communication Compliance - ability to upload csv of keywords DONE
+- Exabeam Server Upgrade Next Steps 
+- Duke Expense Report DONE
+- ePeople Goals 2020 
+- High level bullet points of Exabeam PRof Serv Accomplishments So Far DONE
+- Exabeam Rules associated with Exabeam Threat Intel Feed
+=2/18/20
+- 1/2 DLP High Queue DONE
+- 1/2 RO High Queue DONE
+- AD Team email
+- Limit Exabeam Watchlists to ITP DONE
+- Exabeam Server Upgrade Next Steps
+- Exabeam Rules associated with Exabeam Threat Intel Feed
+- ePeople Goals 2020 
+=2/19/20
+- Dontae AD follow up questions DONE
+- Exabeam Server Upgrade Next Steps 
+- Exabeam Rules associated with Exabeam Threat Intel Feed
+- ePeople Goals 2020
+- Automatic Reply for vacation
+- 
+
+
+
+
+
+
